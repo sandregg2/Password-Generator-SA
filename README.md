@@ -13,4 +13,10 @@ https://sandregg2.github.io/module-2-challenge-seth/
 <img width="500" alt="Screenshot 2023-03-13 193029.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193029.png">
 <img width="500" alt="Screenshot 2023-03-13 193054.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193054.png">
 <img width="500" alt="Screenshot 2023-03-13 193107.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193107.png">
+<img width="500" alt="Screenshot 2023-03-13 193115.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193115.png">
+<img width="500" alt="Screenshot 2023-03-13 193120.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193120.png">
+<img width="500" alt="Screenshot 2023-03-13 193126.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193126.png">
+<img width="500" alt="Screenshot 2023-03-13 193133.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193133.png">
+<img width="500" alt="Screenshot 2023-03-13 193140.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193140.png">
+<img width="500" alt="Screenshot 2023-03-13 193146.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193146.png">
 ## Helpful sites used
