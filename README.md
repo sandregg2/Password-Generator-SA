@@ -9,6 +9,6 @@
 ## Our wesbite
 https://sandregg2.github.io/module-2-challenge-seth/
 ## Images
-Screenshot 2023-03-13 193012.png
+<img width="854" alt="Screenshot 2023-03-13 193012.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193012.png">
 
 ## Helpful sites used
