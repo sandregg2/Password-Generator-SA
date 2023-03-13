@@ -20,3 +20,4 @@ https://sandregg2.github.io/module-2-challenge-seth/
 <img width="500" alt="Screenshot 2023-03-13 193140.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193140.png">
 <img width="500" alt="Screenshot 2023-03-13 193146.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193146.png">
 ## Helpful sites used
+- https://www.w3schools.com/default.asp
