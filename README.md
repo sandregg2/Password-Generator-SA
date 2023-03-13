@@ -8,6 +8,7 @@
 - To learn more about JavaScript and all the uses it has
 ## Our wesbite
 https://sandregg2.github.io/module-2-challenge-seth/
+## Images
+Screenshot 2023-03-13 193012.png
+
 ## Helpful sites used
-https://www.w3schools.com/default.asp
-https://1stwebdesigner.com/css-effects/
