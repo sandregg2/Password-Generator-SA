@@ -1,4 +1,4 @@
-    // Assignment code here
+    /* all characters available for password */
 function generatePassword() {
     var numericCharacters = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
     var uppercaseCharacters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
@@ -6,7 +6,7 @@ function generatePassword() {
     var specialCharacters = ['@', '%', '+', '\\', '/', "'", '!', '#', '$', '^', '?', ':', ',', ')', '(', '}', '{', ']', '[', '~', '-', '_', '.'];
     var possibleCharacters = [];
   
-    // get input and validate
+    /* start of the password creation and prompts to validate waht you have chosen (goes for all these below) */
     numberOfCharacters = prompt("How many characters do you want in your password? Choose between 8-128 characters.");
     if (numberOfCharacters < 8 || numberOfCharacters > 128) {
       return "Please choose a valid number of characters.";
@@ -54,7 +54,7 @@ function generatePassword() {
       return "Please select at least one character type.";
     };
   
-    // group selected characters
+    /* all selected characters grouped together */
     if (hasLowercase) {
       possibleCharacters = possibleCharacters.concat(lowercaseCharacters);
     }
@@ -68,7 +68,7 @@ function generatePassword() {
       possibleCharacters = possibleCharacters.concat(specialCharacters);
     }
   
-    // pick random cards out of new pool for length of password
+    /* random characters chosen inside the variables for password */
     let finalPassword = ""
     for (let i = 0; i < numberOfCharacters; i++) {
       let rng =[Math.floor(Math.random() * possibleCharacters.length)];
@@ -78,10 +78,9 @@ function generatePassword() {
     return finalPassword;
   };
   
-  // Get references to the #generate element
   var generateBtn = document.querySelector("#generate");
   
-  // Write password to the #password input
+  /* password put into text box */
   function writePassword() {
     var password = generatePassword();
     var passwordText = document.querySelector("#password");
