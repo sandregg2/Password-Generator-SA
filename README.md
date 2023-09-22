@@ -7,7 +7,7 @@
 ## Importance of this assignment
 - To learn more about JavaScript and all the uses it has (specifically to generate password to user)
 ## Our wesbite
-- https://sandregg2.github.io/module-3-challenge-seth/
+- [https://sandregg2.github.io/module-3-challenge-seth/](https://sandregg2.github.io/Password-Generator-SA/)
 ## Images
 <img width="500" alt="Screenshot 2023-03-13 193012.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193012.png">
 <img width="500" alt="Screenshot 2023-03-13 193029.png" src="https://github.com/sandregg2/module-3-challenge-seth/blob/main/Images/Screenshot%202023-03-13%20193029.png">
